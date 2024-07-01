@@ -35,7 +35,7 @@ const Section8 = () => {
                 width: { xs: "100%", sm: "100%", md: "60%" },
                 bgcolor: "white",
                 pt: 10,
-                px: 12,
+                px:{xs:4,sm:6,md:12},
                 pb:2
               }}
             >

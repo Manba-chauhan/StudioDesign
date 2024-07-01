@@ -28,7 +28,7 @@ const Section1 = () => {
               float: "right",
               width: { xs: "100%", md: "50%" },
               bgcolor: "primary.contrastText",
-              mt: { xs: 30, md:20,lg: 30 },
+              mt: { xs: 50, md:20,lg: 30 },
             //   mb: 20,
               p: { xs: 2, md: 4 },
               color: "secondary.light",
