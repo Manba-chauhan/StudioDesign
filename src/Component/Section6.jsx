@@ -20,7 +20,6 @@ const Section6 = () => {
                 sx={{
                   width: "200px",
                   height: "200px",
-                  //   border: "25px solid ",
                   borderRadius: "50%",
                   bgcolor: "#355247",
                   ml: { xs: 0, sm: 20, md: 50 },
@@ -36,9 +35,6 @@ const Section6 = () => {
                   // border: "25px solid #355247",
                   borderRadius: "50%",
                   bgcolor: "#d9ca9e",
-                  // position:"absolute",
-                  // left:"20px"
-                  //   ml: { xs: 0, sm: 0, md: -30 },
                   mt: { xs: 15, sm: "-120px" },
                 }}
               >
